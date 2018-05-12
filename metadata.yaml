@@ -1,5 +1,5 @@
 _repo: Not-Pretty-but-Precious--And-Other-Short-Stories_11392
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributors:
   - agent_name: Hickox, Chauncey
@@ -28,13 +28,13 @@ contributor:
   - agent_name: Guernsey, Clara F. (Clara Florida)
     alias: Guernsey, Clara Florida
     birthdate: 1836
-    deathdate: &id001 1893
+    deathdate: 1893
     gutenberg_agent_id: '6311'
     url: http://www.gutenberg.org/2009/agents/6311
   - agent_name: Hooper, Lucy Hamilton
     alias: Hooper, Lucy Hamilton Jones
-    birthdate: &id002 1835
-    deathdate: *id001
+    birthdate: 1835
+    deathdate: 1893
     gutenberg_agent_id: '6313'
     url: http://www.gutenberg.org/2009/agents/6313
   - agent_name: Hadermann, J. R.
@@ -52,12 +52,17 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/6315
   - agent_name: Spofford, Harriet Elizabeth Prescott
     alias: Prescott, Harriet Elizabeth
-    birthdate: *id002
+    birthdate: 1835
     deathdate: 1921
     gutenberg_agent_id: '6312'
     url: http://www.gutenberg.org/2009/agents/6312
     wikipedia: http://en.wikipedia.org/wiki/Harriet_Elizabeth_Prescott_Spofford
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11392#Not-Pretty-but-Precious--And-Other-Short-Stories
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
